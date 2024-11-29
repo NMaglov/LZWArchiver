@@ -9,9 +9,13 @@ make
 ```
 ./tests
 ```
-## Run executable
+## Run executable(Linux)
 ```
 ./application [command and arguments]
+```
+## Run executable(Windows)
+```
+./application.exe [command and arguments]
 ```
 ## Pattern matching can be used when working with files. '*' means 0 or more arbitary characters while '?' is exactly one character.  
 ## Commands
