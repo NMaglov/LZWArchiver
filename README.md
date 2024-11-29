@@ -5,15 +5,19 @@ cd build
 cmake ..
 make
 ```
-## Run tests
+## Run tests(Linux)
 ```
 ./tests
 ```
-## Run executable(Linux)
+## Run tests(Windows)
+```
+./tests.exe
+```
+## Run app(Linux)
 ```
 ./application [command and arguments]
 ```
-## Run executable(Windows)
+## Run app(Windows)
 ```
 ./application.exe [command and arguments]
 ```
